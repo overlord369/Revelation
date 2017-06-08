@@ -13,13 +13,13 @@ He made them watch him perform. He had a bunch of golf clubs ,bats, pool sticks,
 After this impressive display, the sales manager told the employees that he paid him $20,000.00 in cash to do that 30 minute show and paid for all of his expenses as well. 
 
 The showman told the employees the following:
-<font face="verdana">
+
 >"I bet you're wondering how I am so good at hitting golf balls and how I can command such a high price for this short display of my talents.
 >It's not that I am a gifted golfer. I don't have a great score on the course when I play an actual game. 
 >It's not that I have natural talent. It took me a very long time to get good at these things. 
 >It's just that I wake up every day and do the following:
 >I hit golf balls for 2 hours, take a break, hit golf balls for 2 hours, take a lunch, hit golf balls for 2 hours, take a break, and hit golf balls for 2 more hours and finish for the day."
-</font>
+
 His simple point was that he gave 100% of his time to his job for those short bursts of time and didn't fuck around at all while he was working at his job. That's the secret. Period.
 
 In a time where it is so easy to think you are sneaking by with minimal work and still getting paid while you waste time on social media such as Facebook, Twitter and drag yourself into mediocrity... 
