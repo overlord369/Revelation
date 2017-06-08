@@ -1,0 +1,25 @@
+# Site settings
+title: Revelation
+header-img: img/home-bg.jpg
+email: intuition369@icloud.com
+copyright_name: Revelation
+description: "Ameliorate Cognizance!"
+baseurl: ""
+url: "http://"
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  StartBootstrap
+email_username:  your-email@yourdomain.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
