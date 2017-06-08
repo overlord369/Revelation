@@ -13,7 +13,7 @@ header-img: "img/post-bg-06.jpg"
 
 
 
-![babe ruth](/Users/overlord369/Websites/revelation/img/babe ruth.jpg)
+![babe ruth](/Users/overlord369/Websites/revelation/img/babe_ruth.jpg)
 
 A manager of a Multi National Company took his group of employees to a golf course, where he introduced them to a virtuoso Golfer.
 
