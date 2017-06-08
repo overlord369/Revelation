@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 layout:     post
@@ -19,4 +19,4 @@ The showman told the employees the following:
 
 His simple point was that he gave 100% of his time to his job for those short bursts of time and didn't fuck around at all while he was working at his job. That's the secret. Period.
 In a time where it is so easy to think you are sneaking by with minimal work and still getting paid while you waste time on social media such as Facebook, Twitter and drag yourself into mediocrity... 
-But, someone who is applying himself, 100% of the time is supposed to get ahead in life. You can be that person, if you live your live courageously and engrossing yourself into your work. 
+But, someone who is applying himself, 100% of the time is supposed to get ahead in life. You can be that person, if you live your live courageously and engrossing yourself into your work.
