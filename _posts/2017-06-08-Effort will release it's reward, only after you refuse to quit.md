@@ -11,15 +11,15 @@ header-img: "img/post-bg-06.jpg"
 <p>He made them watch him perform. He had a bunch of golf clubs ,bats, pool sticks, anything you can think of that would be long and could be used to hit a golf ball. Out in the course were markers at 25/50/75/100 yards on out to about 300 yards. This man went through a half hour display of hitting golf balls to these markers and landing every ball within about 2 feet of the marker. Hundreds of balls without fail. He was an absolute magician and could drive 300 yards, perfectly straight with a putter and hit a golf ball 100 yards (or to any marker) with a baseball bat just as well. It was unbelievable.</p>
 
 <p>After this impressive display, the sales manager told the employees that he paid him $20,000.00 in cash to do that 30 minute show and paid for all of his expenses as well. </p>
-> ## The showman told the employees the following:
+> ###### The showman told the employees the following:
 >"I bet you're wondering how I am so good at hitting golf balls and how I can command such a high price for this short display of my talents.
-> 
+
 >It's not that I am a gifted golfer. I don't have a great score on the course when I play an actual game. 
->
+
 >It's not that I have natural talent. It took me a very long time to get good at these things. 
->
+
 >It's just that I wake up every day and do the following:
->
+
 >I hit golf balls for 2 hours, take a break, hit golf balls for 2 hours, take a lunch, hit golf balls for 2 hours, take a break, and hit golf balls for 2 more hours and finish for the day."
 
 <p>His simple point was that he gave 100% of his time to his job for those short bursts of time and didn't fuck around at all while he was working at his job. That's the secret. Period.</p>
