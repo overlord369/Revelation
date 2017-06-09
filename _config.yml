@@ -6,14 +6,14 @@ copyright_name: Revelation
 description: "Ameliorate Cognizance!"
 baseurl: ""
 url: "http://"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: Lord_Technocrat
+facebook_username:  rcn.cool
+instagram_username:  rohit_naidu369
+email_username:  intuition369@icloud.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-100794561-1
 
 # Build settings
 markdown: kramdown
