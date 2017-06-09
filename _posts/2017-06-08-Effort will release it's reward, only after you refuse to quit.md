@@ -5,6 +5,7 @@ subtitle:   It does not matter how slowly you go as long as you do 		not stop
 date:       2017-06-08 12:00:00
 author:     "Rohit Naidu"
 header-img: "img/mountain.jpg"
+categories: Self-Help
 ---
 
 ### <u>“Every strike brings me closer to the next home run.”</u> 
@@ -23,7 +24,7 @@ What makes them different is their perseverance and dedication. Most of you don�
 
 A manager at a Company took a group of his employees to a golf course, where he introduced them to a virtuoso Golfer.
 
-He made them watch him perform. He had a bunch of golf clubs ,bats, pool sticks, anything you can think of that would be long and could be used to hit a golf ball. Out in the course were markers at 25, 50, 75, 100 yards on out to about 300 yards. This man went through a half hour display of hitting golf balls to these markers and landing every ball within about 2-feet of the marker. Hundreds of balls without fail. He was an absolute magician and could drive 300 yards, perfectly straight with a putter and hit a golf ball 100 yards (or to any marker) with a baseball bat just as well. It was unbelievable.
+He made them watch him perform. He had a bunch of golf clubs , bats, pool sticks, anything you can think of that would be long and could be used to hit a golf ball. Out in the course were markers at 25, 50, 75, 100 yards on out to about 300 yards. This man went through a half hour display of hitting golf balls to these markers and landing every ball within about 2-feet of the marker. Hundreds of balls without fail. He was an absolute magician and could drive 300 yards, perfectly straight with a putter and hit a golf ball 100 yards (or to any marker) with a baseball bat just as well. It was unbelievable.
 
 After this impressive display, the sales manager told the employees that he paid him                  $ 20,000 in cash to do that 30 minute show and paid for all of his expenses as well. 
 
