@@ -46,5 +46,6 @@ Some indispensable revelations implied in the following poem.
 <i>Your talks are esoteric elevating me to the epitome of bliss</i><br/>
 <i>Its my honor to be a disciple of a guru like you.</i> <br/>
 <i>You make me feel bliss and get totally engrossed in learning too.</i><br/>
+<i><p align="right">-Rohit Naidu</p></i><br/>
 </p>
 </div>
