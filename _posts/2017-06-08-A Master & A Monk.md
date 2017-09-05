@@ -2,7 +2,7 @@
 layout:     post
 title:      A Master & A Disciple
 subtitle:   The master has failed more times than the beginner even tried
-date:       2017-06-08 12:00:00
+date:       2017-09-05 3:00:00
 author:     "Rohit Naidu"
 header-img: "img/monk.jpg"
 categories: Self-Help
