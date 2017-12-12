@@ -5,7 +5,7 @@ subtitle:   We've put more effort into helping folks reach old age than into hel
 date:       2017-12-12 12:05:00
 author:     "Rohit Naidu"
 header-img: "img/community.jpg"
-categories: Elders
+categories: Community
 ---
 
 * Paint park benches
