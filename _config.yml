@@ -1,15 +1,15 @@
 # Site settings
-title: Revelation
+title: Voluntariado
 header-img: img/home-bg.jpg
 email: intuition369@icloud.com
-copyright_name: Revelation
+copyright_name: Voluntariado
 description: "Ameliorate Cognizance!"
 baseurl: ""
 url: "http://"
-twitter_username: Lord_Technocrat
-facebook_username:  rcn.cool
-instagram_username:  rohit_naidu369
-email_username:  intuition369@icloud.com
+twitter_username: 
+facebook_username:  https://m.facebook.com/groups/1070502846316719
+instagram_username:  
+email_username:   voluntariado.uea@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
